@@ -5,7 +5,7 @@ body{
 }
 .root {
     background-size: cover;
-background-image: url("../netflix/Images/Background.jpg");
+background-image: url("../Netflix-Clone/netflix/Images/Background.jpg");
 background-position: center;
 background-repeat: no-repeat;
 }
